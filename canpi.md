@@ -17,4 +17,5 @@ dtoverlay=spi-bcm2835-overlay
 
 Resources:
 
-http://skpang.co.uk/catalog/pican2-canbus-board-for-raspberry-pi-23-p-1475.html
+[General information](http://skpang.co.uk/catalog/pican2-canbus-board-for-raspberry-pi-23-p-1475.html)  
+[Setup information](http://skpang.co.uk/catalog/images/raspberrypi/pi_2/PICAN2_jessie_2016-05-10.pdf)
